@@ -23,6 +23,7 @@ Region keys are as follows:
 - Russia = 8
 - Turkey = 9
 - Korea = 10
+<br/>
 The following command will start gathering data from the Europe West.
 
 $ cd project_directory/
