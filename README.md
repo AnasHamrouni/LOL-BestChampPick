@@ -4,7 +4,7 @@ a combination between python-flask, that fetch data and send from league client 
 ***
 
 ## How to run
-###To start collecting games data: change "KEY" in data_gathering_riot.py to your API KEY.
+### To start collecting games data: change "KEY" in data_gathering_riot.py to your API KEY.
 
 ```
 python data_gathering_riot.py 
