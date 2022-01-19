@@ -30,7 +30,7 @@ The following command will start gathering data from the Europe West.
 $ cd project_directory/
 $ python data_gathering_riot.py 3
 ```
-to run the code, all data will be saved to json files take a look at [the original github/code](https://github.com/shrinivasshetty21/Data-Mining-from-RIOT-API) for more info and how does it exactly work. (was broken, so i fixed it BUT BEWARE I TESTED ONLY FOR EUROPE WEST, YOU NEED TO CHANGE PLAYER NAMES OF OTHER REAGION TO GET A BETTER STARTING POINT)
+all data will be saved to json files take a look at [the original github/code](https://github.com/shrinivasshetty21/Data-Mining-from-RIOT-API) for more info and how does it exactly work. (was broken, so i fixed it BUT BEWARE I TESTED ONLY FOR EUROPE WEST, YOU NEED TO CHANGE PLAYER NAMES OF OTHER REAGION TO GET A BETTER STARTING POINT)
 
 ___
 ### To run the LCU and Python-flask script:
