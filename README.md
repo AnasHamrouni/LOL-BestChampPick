@@ -1,5 +1,5 @@
 # LOL-BestChampPick
-a combination between python-flask, that fetch and send data from league client during champion select thanks to LCU and compare teammates/enemy picked champs to the gamesDataBase (that we need to collect using another python script) and then send the games comparison result to localhost:5000/members that will fetch by electron-reactJS script to present it as a GUI on browser (localhost:5000)
+a combination between python-flask, that fetch and send data from league client during champion select thanks to LCU and compare teammates/enemy picked champs to the gamesDataBase (that we need to collect using another python script) and then send the games comparison result to localhost:5000/members that we fetch by electron-reactJS script to present it as a GUI on the browser (localhost:5000)
 
 ***
 
